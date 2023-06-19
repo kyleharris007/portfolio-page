@@ -1,0 +1,21 @@
+body {
+    background-color: lightblue;
+}
+h1 {
+    text-align: center;
+    color: purple;
+    font-size: 30px;
+}
+.p1 {
+    color: blueviolet;
+    text-align: center;
+}
+body {
+    font-weight: bold;
+}
+.p2 {
+    text-align: left;
+}
+.p3 {
+    text-align: left;
+}
