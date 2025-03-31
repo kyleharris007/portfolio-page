@@ -169,7 +169,7 @@
     imagesLoaded(isotopeItem.querySelector('.isotope-container'), function() {
       initIsotope = new Isotope(isotopeItem.querySelector('.isotope-container'), {
         itemSelector: '.isotope-item',
-        layoutMode: layout,
+        layoutMode: 'fitRows',
         filter: filter,
         sortBy: sort
       });
